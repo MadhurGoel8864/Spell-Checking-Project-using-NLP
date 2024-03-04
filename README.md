@@ -1,7 +1,10 @@
  
 # Spell Checking Project using NLP
 
-Hello everyone, this is project based on NLP(Natural Language Processing) Concept.
+Hello everyone, this is a project based on the NLP(Natural Language Processing) Concept.
+It helps to find the correct related words that can be present. We have trained the word dictionary by the provided text data.
+For ex:- If the user types word "cresh", the model will suggest correct words like
+['fresh', 'crush', 'crash', 'crest']
 
 ## Demo
 

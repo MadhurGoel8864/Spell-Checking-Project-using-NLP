@@ -1,5 +1,5 @@
-# 
-#Spell Checking Project using NLP
+ 
+# Spell Checking Project using NLP
 
 Hello everyone, this is project based on NLP(Natural Language Processing) Concept.
 
